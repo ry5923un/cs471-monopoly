@@ -5,6 +5,8 @@
  * Description: Monopoly Game
  */
 
+// TODO: Want to add an enum for the different dog, wheelbarrow, ship, etc.
+
 public class Piece {
     private Square location;
     
